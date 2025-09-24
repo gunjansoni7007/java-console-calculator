@@ -14,4 +14,4 @@ It performs basic arithmetic operations (Addition, Subtraction, Multiplication, 
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/gunjansoni7007/java-console-calculator
